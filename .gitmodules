@@ -1,0 +1,9 @@
+[submodule "IDF_photodisplay/submodules/lvgl"]
+	path = submodules/lvgl
+	url = https://github.com/yeliu-deepmirror/lvgl
+[submodule "submodules/lvgl"]
+	path = submodules/lvgl
+	url = https://github.com/yeliu-deepmirror/lvgl
+[submodule "submodules/JPEGDEC/JPEGDEC"]
+	path = submodules/JPEGDEC/JPEGDEC
+	url = https://github.com/bitbank2/JPEGDEC

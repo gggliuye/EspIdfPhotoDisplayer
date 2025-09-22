@@ -12,11 +12,11 @@ dependencies:
     public: true
   lvgl/lvgl:
     version: '*'
-    override_path: /MobiliADashi/submodules/lvgl
+    override_path: ../../submodules/lvgl
     pre_release: true
   JPEGDEC:
     version: '*'
-    override_path: /MobiliADashi/submodules/JPEGDEC
+    override_path: ../../submodules/JPEGDEC
     pre_release: true
   espressif/esp-dsp:
     version: 1.6.0

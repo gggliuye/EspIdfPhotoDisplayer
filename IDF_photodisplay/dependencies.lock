@@ -2,13 +2,13 @@ dependencies:
   JPEGDEC:
     dependencies: []
     source:
-      path: /MobiliADashi/submodules/JPEGDEC
+      path: /Development/EspIdfPhotoDisplayer/submodules/JPEGDEC
       type: local
     version: '*'
   esp_lcd_sh8601:
     dependencies: []
     source:
-      path: /MobiliADashi/IDF_photodisplay/components/esp_lcd_sh8601
+      path: /Development/EspIdfPhotoDisplayer/IDF_photodisplay/components/esp_lcd_sh8601
       type: local
     version: 1.0.0
   espressif/cmake_utilities:
@@ -86,7 +86,7 @@ dependencies:
   lvgl/lvgl:
     dependencies: []
     source:
-      path: /MobiliADashi/submodules/lvgl
+      path: /Development/EspIdfPhotoDisplayer/submodules/lvgl
       type: local
     version: '*'
 direct_dependencies:
@@ -98,6 +98,6 @@ direct_dependencies:
 - espressif/esp_lcd_touch_ft5x06
 - idf
 - lvgl/lvgl
-manifest_hash: 964c7701b8ee437c280a3f92ce5545396c83f8903e74927d43a6a457281ed2d4
+manifest_hash: 7dfad023974e89ba7b7bbf76a0109f8923ce90fa02eef95a596375110931e46d
 target: esp32s3
 version: 2.0.0
