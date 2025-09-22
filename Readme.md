@@ -5,8 +5,7 @@ A photo auto displayer based on [ESP32-S3 1.8inch AMOLED Touch Display Developme
 * play photo automatically, change every 2 seconds or by tapping the screen.
 * show battery information on top left.
 
-
-
+![image](assets/ezgif-8dee32351e796d.gif)
 
 
 ## Build with ESP-IDF
